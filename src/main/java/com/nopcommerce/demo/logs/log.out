@@ -1,0 +1,33 @@
+2023-07-25 18:07:148 INFO  HomePage :40 - Clicking on Computer Tab
+2023-07-25 18:07:996 INFO  ComputerPage :26 - Click on Computers Tab
+2023-07-25 18:07:580 INFO  HomePage :27 - Clicking on login link[[ChromeDriver: chrome on mac (7dbe5dece35a3d727f93005fceffc869)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-25 18:07:470 INFO  LoginPage :42 - Enter email Diuesh5@gmail.com to email field[[ChromeDriver: chrome on mac (7dbe5dece35a3d727f93005fceffc869)] -> id: Email]
+2023-07-25 18:07:608 INFO  LoginPage :46 - Enter password 123Divuesh to password field[[ChromeDriver: chrome on mac (7dbe5dece35a3d727f93005fceffc869)] -> name: Password]
+2023-07-25 18:07:659 INFO  LoginPage :51 - Clicking on Login Button[[ChromeDriver: chrome on mac (7dbe5dece35a3d727f93005fceffc869)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-25 18:07:943 INFO  LoginPage :60 - Getting LogOut link Display
+2023-07-25 18:07:491 INFO  HomePage :35 - Clicking on Register link
+2023-07-25 18:07:272 INFO  RegisterPage :82 - Getting Register Text
+2023-07-25 18:07:912 INFO  HomePage :40 - Clicking on Computer Tab
+2023-07-25 18:07:11 INFO  ComputerPage :26 - Click on Computers Tab
+2023-07-25 18:07:953 INFO  HomePage :27 - Clicking on login link[[ChromeDriver: chrome on mac (5be05c47144bc83f1e136ec6038952e6)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-25 18:07:942 INFO  LoginPage :42 - Enter email Diuesh5@gmail.com to email field[[ChromeDriver: chrome on mac (5be05c47144bc83f1e136ec6038952e6)] -> id: Email]
+2023-07-25 18:07:70 INFO  LoginPage :46 - Enter password 123Divuesh to password field[[ChromeDriver: chrome on mac (5be05c47144bc83f1e136ec6038952e6)] -> name: Password]
+2023-07-25 18:07:118 INFO  LoginPage :51 - Clicking on Login Button[[ChromeDriver: chrome on mac (5be05c47144bc83f1e136ec6038952e6)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-25 18:07:448 INFO  LoginPage :60 - Getting LogOut link Display
+2023-07-25 18:07:245 INFO  HomePage :35 - Clicking on Register link
+2023-07-25 18:07:33 INFO  RegisterPage :82 - Getting Register Text
+2023-07-25 18:07:160 INFO  HomePage :40 - Clicking on Computer Tab
+2023-07-25 18:07:975 INFO  ComputerPage :30 - Clicking on Desktops Link[[ChromeDriver: chrome on mac (e13650edb24d7bb65382eb59f4bc4c18)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2023-07-25 18:07:433 INFO  DesktopsPage :24 - Verify Desktops Text
+2023-07-25 18:07:929 INFO  HomePage :27 - Clicking on login link[[ChromeDriver: chrome on mac (9372b01650737680cc27246837b9648d)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-25 18:07:687 INFO  RegisterPage :138 - Send text in email field
+2023-07-25 18:07:803 INFO  RegisterPage :142 - Send text in password field
+2023-07-25 18:07:867 INFO  LoginPage :51 - Clicking on Login Button[[ChromeDriver: chrome on mac (9372b01650737680cc27246837b9648d)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-25 18:07:565 INFO  LoginPage :65 - Clicking on Logout ButtonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-07-25 18:07:18 INFO  HomePage :35 - Clicking on Register link
+2023-07-25 18:07:801 INFO  RegisterPage :86 - Clicking on Register Button[[ChromeDriver: chrome on mac (5cb24da75a7708b681238f0e715f9ca4)] -> id: register-button]
+2023-07-25 18:07:863 INFO  RegisterPage :91 - Getting First name is required Message
+2023-07-25 18:07:889 INFO  RegisterPage :96 - Getting Last name is required Message
+2023-07-25 18:07:904 INFO  RegisterPage :100 - Getting Email is required Message
+2023-07-25 18:07:919 INFO  RegisterPage :104 - Getting Password is required Message
+2023-07-25 18:07:934 INFO  RegisterPage :109 - Getting Password is required Message
